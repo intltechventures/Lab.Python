@@ -7,6 +7,7 @@ References
 
 Useful Libraries
 * http://scipy.org/
+* Natural Language Toolkit [NLTK] (http://www.nltk.org/)
 
 
 Useful Resources

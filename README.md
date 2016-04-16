@@ -14,4 +14,5 @@ Useful Libraries
 
 Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm
+* https://pythonprogramming.net/
 * http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html

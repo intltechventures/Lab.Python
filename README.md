@@ -8,8 +8,10 @@ References
 Useful Libraries
 * http://scipy.org/
 * Natural Language Toolkit [NLTK] (http://www.nltk.org/)
+* http://www.pydata.org/
+	* Python Data Analysis Library [pandas] (http://pandas.pydata.org/)
 * [StaticMap] (https://github.com/komoot/staticmap)
 
-
-Useful Resources
+Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm
+

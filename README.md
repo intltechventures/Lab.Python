@@ -15,4 +15,10 @@ Useful Libraries
 Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm
 * https://pythonprogramming.net/
+* https://the-hitchhikers-guide-to-packaging.readthedocs.org/en/latest/
+* http://docs.python-guide.org/en/latest/
 * http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
+
+
+Interesting Python Related Blogs
+* http://blog.amir.rachum.com/

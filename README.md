@@ -18,6 +18,7 @@ Tutorials / Learning Resources
 * https://the-hitchhikers-guide-to-packaging.readthedocs.org/en/latest/
 * http://docs.python-guide.org/en/latest/
 * http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
+* [Python for Signal Processing] (http://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 
 
 Interesting Python Related Blogs

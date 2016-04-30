@@ -5,12 +5,17 @@ References
 * https://www.python.org/
 * [Python 3.5.1 Documentation] (https://docs.python.org/3/)
 
+
 Useful Libraries
+* https://github.com/numpy/numpy
 * http://scipy.org/
+	* https://github.com/scipy/scipy 
 * Natural Language Toolkit [NLTK] (http://www.nltk.org/)
 * http://www.pydata.org/
 	* Python Data Analysis Library [pandas] (http://pandas.pydata.org/)
 * [StaticMap] (https://github.com/komoot/staticmap)
+* https://github.com/fchollet/keras 
+
 
 Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm

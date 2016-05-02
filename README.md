@@ -15,6 +15,7 @@ Useful Libraries
 	* Python Data Analysis Library [pandas] (http://pandas.pydata.org/)
 * [StaticMap] (https://github.com/komoot/staticmap)
 * https://github.com/fchollet/keras 
+* https://github.com/vbuterin/pybitcointools
 
 
 Tutorials / Learning Resources

@@ -5,7 +5,7 @@ A repository that serves as my lab for exploring the Python language
 References
 * https://www.python.org/
 * [Python 3.5.1 Documentation] (https://docs.python.org/3/)
-
+* [What's New in Python 3.6] (https://docs.python.org/3.6/whatsnew/3.6.html)
 
 Useful Libraries
 * https://github.com/numpy/numpy

@@ -20,6 +20,9 @@ Useful Libraries
 * https://github.com/datastax/python-driver
 
 
+Anaconda
+* https://www.continuum.io/downloads
+
 Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm
 * https://pythonprogramming.net/

@@ -18,6 +18,7 @@ Useful Libraries
 * https://github.com/fchollet/keras 
 * https://github.com/vbuterin/pybitcointools
 * https://github.com/datastax/python-driver
+* https://github.com/spotify/annoy
 
 
 Anaconda

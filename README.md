@@ -32,6 +32,8 @@ Tutorials / Learning Resources
 * http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
 * [Python for Signal Processing] (http://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 * [Coursera: Learn Data Science Fundamentals] (https://www.coursera.org/specializations/data-analysis)
+* https://us.pycon.org/2017/schedule/tutorials/
+
 
 Interesting Python Related Blogs
 * http://blog.amir.rachum.com/

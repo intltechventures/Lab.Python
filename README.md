@@ -19,6 +19,24 @@ Useful Libraries
 * https://github.com/vbuterin/pybitcointools
 * https://github.com/datastax/python-driver
 * https://github.com/spotify/annoy
+* https://github.com/python-pillow/Pillow
+  * http://python-pillow.org/
+* https://github.com/chriskiehl/Gooey
+* https://github.com/coleifer/peewee
+* https://github.com/scrapy/scrapy
+  * https://scrapy.org/
+* https://github.com/apache/libcloud
+  * http://libcloud.apache.org/ 
+* http://pygame.org/lofi.html
+* https://github.com/numpy/numpy
+  * http://www.numpy.org/
+* http://pandas.pydata.org/
+* http://www.scipy.org/index.html
+* https://github.com/amoffat/sh
+* https://github.com/python-openxml/python-docx
+* https://github.com/PyFilesystem/pyfilesystem2
+* https://github.com/aerkalov/ebooklib/
+* http://cython.org/
 
 
 Anaconda

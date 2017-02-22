@@ -8,6 +8,7 @@ References
 * [What's New in Python 3.6] (https://docs.python.org/3.6/whatsnew/3.6.html)
 
 Useful Libraries
+* https://github.com/vinta/awesome-python
 * https://github.com/numpy/numpy
 * http://scipy.org/
 	* https://github.com/scipy/scipy 

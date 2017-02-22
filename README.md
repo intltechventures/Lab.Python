@@ -9,6 +9,7 @@ References
 
 Useful Libraries
 * https://github.com/vinta/awesome-python
+* https://github.com/jupyter/jupyter
 * https://github.com/numpy/numpy
 * http://scipy.org/
 	* https://github.com/scipy/scipy 

@@ -39,7 +39,7 @@ Useful Libraries
 * https://github.com/PyFilesystem/pyfilesystem2
 * https://github.com/aerkalov/ebooklib/
 * http://cython.org/
-
+* https://github.com/DennyZhang/devops_public/tree/tag_v5/python
 
 Anaconda
 * https://www.continuum.io/downloads

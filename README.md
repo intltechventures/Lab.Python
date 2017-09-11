@@ -40,6 +40,9 @@ Useful Libraries
 * https://github.com/aerkalov/ebooklib/
 * http://cython.org/
 * https://github.com/DennyZhang/devops_public/tree/tag_v5/python
+* http://jinja.pocoo.org/
+
+
 
 Anaconda
 * https://www.continuum.io/downloads

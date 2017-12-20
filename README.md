@@ -62,3 +62,10 @@ Tutorials / Learning Resources
 
 Interesting Python Related Blogs
 * http://blog.amir.rachum.com/
+
+
+
+Setting Up a Virtual Environment
+* $ mkdir Environments
+* $ cd Environments
+* $ python -m venv {my_project_env_name}

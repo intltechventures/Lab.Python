@@ -41,6 +41,8 @@ Useful Libraries
 * http://cython.org/
 * https://github.com/DennyZhang/devops_public/tree/tag_v5/python
 * http://jinja.pocoo.org/
+* Python SQL Server - pymssql
+  * https://docs.microsoft.com/en-us/sql/connect/python/pymssql/python-sql-driver-pymssql
 
 
 

@@ -13,10 +13,10 @@ Useful Libraries
 * https://github.com/numpy/numpy
 * http://scipy.org/
 	* https://github.com/scipy/scipy 
-* Natural Language Toolkit [NLTK] (http://www.nltk.org/)
+* Natural Language Toolkit [NLTK](http://www.nltk.org/)
 * http://www.pydata.org/
-	* Python Data Analysis Library [pandas] (http://pandas.pydata.org/)
-* [StaticMap] (https://github.com/komoot/staticmap)
+	* Python Data Analysis Library: [pandas](http://pandas.pydata.org/)
+* [StaticMap](https://github.com/komoot/staticmap)
 * https://github.com/fchollet/keras 
 * https://github.com/vbuterin/pybitcointools
 * https://github.com/datastax/python-driver
@@ -59,9 +59,12 @@ Tutorials / Learning Resources
 * [Python for Signal Processing](http://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 * [Coursera: Learn Data Science Fundamentals](https://www.coursera.org/specializations/data-analysis)
 * https://us.pycon.org/2017/schedule/tutorials/
-* https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions
-* http://www.practicepython.org/
-* https://github.com/karan/Projects
+* Python Programming Problems
+  * https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions
+  * http://www.practicepython.org/
+  * https://github.com/karan/Projects
+  * 
+  * http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
 
 
 Interesting Python Related Blogs

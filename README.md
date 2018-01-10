@@ -4,8 +4,8 @@ A repository that serves as my lab for exploring the Python language
 
 References
 * https://www.python.org/
-* [Python 3.5.1 Documentation] (https://docs.python.org/3/)
-* [What's New in Python 3.6] (https://docs.python.org/3.6/whatsnew/3.6.html)
+* [Python 3.5.1 Documentation](https://docs.python.org/3/)
+* [What's New in Python 3.6](https://docs.python.org/3.6/whatsnew/3.6.html)
 
 Useful Libraries
 * https://github.com/vinta/awesome-python
@@ -49,15 +49,19 @@ Useful Libraries
 Anaconda
 * https://www.continuum.io/downloads
 
+
 Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm
 * https://pythonprogramming.net/
 * https://the-hitchhikers-guide-to-packaging.readthedocs.org/en/latest/
 * http://docs.python-guide.org/en/latest/
 * http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
-* [Python for Signal Processing] (http://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
-* [Coursera: Learn Data Science Fundamentals] (https://www.coursera.org/specializations/data-analysis)
+* [Python for Signal Processing](http://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
+* [Coursera: Learn Data Science Fundamentals](https://www.coursera.org/specializations/data-analysis)
 * https://us.pycon.org/2017/schedule/tutorials/
+* https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions
+* http://www.practicepython.org/
+* https://github.com/karan/Projects
 
 
 Interesting Python Related Blogs
@@ -66,6 +70,6 @@ Interesting Python Related Blogs
 
 
 Setting Up a Virtual Environment
-* $ mkdir Environments
-* $ cd Environments
-* $ python -m venv {my_project_env_name}
+* ```$ mkdir Environments```
+* ```$ cd Environments```
+* ```$ python -m venv {my_project_env_name}```

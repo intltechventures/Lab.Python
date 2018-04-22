@@ -53,6 +53,7 @@ Anaconda
 Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm
 * https://pythonprogramming.net/
+* https://www.python-course.eu/python3_course.php
 * https://the-hitchhikers-guide-to-packaging.readthedocs.org/en/latest/
 * http://docs.python-guide.org/en/latest/
 * http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html

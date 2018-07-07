@@ -7,6 +7,13 @@ References
 * [Python 3.5.1 Documentation](https://docs.python.org/3/)
 * [What's New in Python 3.6](https://docs.python.org/3.6/whatsnew/3.6.html)
 
+Intel Python Distribution
+* https://software.intel.com/en-us/distribution-for-python
+  * Support for Python 3.6
+  * Performance accelerations: Scikit-learn with Intel® Data Analytics Acceleration Library (Intel® DAAL), fast Fourier transforms in SciPy and Numpy, universal functions (ufuncs) can use multiple cores and Single Instructions Multiple Data (SIMD), and neural network enhancements for pyDAAL
+
+
+
 Useful Libraries
 * https://github.com/vinta/awesome-python
 * https://github.com/jupyter/jupyter

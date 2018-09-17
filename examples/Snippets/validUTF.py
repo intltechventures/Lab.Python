@@ -10,6 +10,8 @@ References & Background Reading:
 * http://www.unicode.org/faq/
 * http://unicode.org/faq/utf_bom.html
 
+* https://unicodebook.readthedocs.io/guess_encoding.html
+
 * https://www.cl.cam.ac.uk/~mgk25/ucs/man-utf-8.html
 * https://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt
 * https://www.cl.cam.ac.uk/~mgk25/unicode.html

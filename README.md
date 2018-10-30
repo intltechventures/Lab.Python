@@ -1,20 +1,25 @@
 Lab.Python
+====
 A repository that serves as my lab for exploring the Python language
 
 
-References
+### References
 * https://www.python.org/
-* [Python 3.5.1 Documentation](https://docs.python.org/3/)
-* [What's New in Python 3.6](https://docs.python.org/3.6/whatsnew/3.6.html)
+* https://docs.python.org/3.8/tutorial/
+* https://docs.python.org/3.8/library/
+* [Python 3.x Documentation](https://docs.python.org/3/)
+* [What's New in Python 3.6](https://docs.python.org/3.8/whatsnew/3.8.html)
 
-Intel Python Distribution
+
+
+### Intel Python Distribution
 * https://software.intel.com/en-us/distribution-for-python
   * Support for Python 3.6
   * Performance accelerations: Scikit-learn with Intel® Data Analytics Acceleration Library (Intel® DAAL), fast Fourier transforms in SciPy and Numpy, universal functions (ufuncs) can use multiple cores and Single Instructions Multiple Data (SIMD), and neural network enhancements for pyDAAL
 
 
 
-Useful Libraries
+### Useful Libraries
 * https://github.com/vinta/awesome-python
 * https://github.com/jupyter/jupyter
 * https://github.com/numpy/numpy
@@ -53,11 +58,11 @@ Useful Libraries
 
 
 
-Anaconda
+### Anaconda
 * https://www.continuum.io/downloads
 
 
-Tutorials / Learning Resources
+### Tutorials / Learning Resources
 * http://www.tutorialspoint.com/python/index.htm
 * https://pythonprogramming.net/
 * https://www.python-course.eu/python3_course.php
@@ -73,14 +78,24 @@ Tutorials / Learning Resources
   * https://github.com/karan/Projects
   * 
   * http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+* University of Washington, CS160 
+  * https://courses.cs.washington.edu/courses/cse160/18sp/lectures/
+  * https://courses.cs.washington.edu/courses/cse160/18sp/homework/
+  * https://courses.cs.washington.edu/courses/cse160/18sp/computing/style_guide.html
+  * https://courses.cs.washington.edu/courses/cse160/18sp/computing/csv-parsing.html
+  * https://courses.cs.washington.edu/courses/cse160/18sp/computing/
 
 
-Interesting Python Related Blogs
+### Python Style Guides
+* https://github.com/google/styleguide/blob/gh-pages/pyguide.md
+
+
+### Interesting Python Related Blogs
 * http://blog.amir.rachum.com/
 
 
 
-Setting Up a Virtual Environment
+### Setting Up a Virtual Environment
 * ```$ mkdir Environments```
 * ```$ cd Environments```
 * ```$ python -m venv {my_project_env_name}```

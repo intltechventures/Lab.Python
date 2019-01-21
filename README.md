@@ -62,29 +62,6 @@ A repository that serves as my lab for exploring the Python language
 * https://www.continuum.io/downloads
 
 
-### Tutorials / Learning Resources
-* http://www.tutorialspoint.com/python/index.htm
-* https://pythonprogramming.net/
-* https://www.python-course.eu/python3_course.php
-* https://the-hitchhikers-guide-to-packaging.readthedocs.org/en/latest/
-* http://docs.python-guide.org/en/latest/
-* http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
-* [Python for Signal Processing](http://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
-* [Coursera: Learn Data Science Fundamentals](https://www.coursera.org/specializations/data-analysis)
-* https://us.pycon.org/2017/schedule/tutorials/
-* Python Programming Problems
-  * https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions
-  * http://www.practicepython.org/
-  * https://github.com/karan/Projects
-  * 
-  * http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
-* University of Washington, CS160 
-  * https://courses.cs.washington.edu/courses/cse160/18sp/lectures/
-  * https://courses.cs.washington.edu/courses/cse160/18sp/homework/
-  * https://courses.cs.washington.edu/courses/cse160/18sp/computing/style_guide.html
-  * https://courses.cs.washington.edu/courses/cse160/18sp/computing/csv-parsing.html
-  * https://courses.cs.washington.edu/courses/cse160/18sp/computing/
-
 
 ### Python Style Guides
 * https://github.com/google/styleguide/blob/gh-pages/pyguide.md

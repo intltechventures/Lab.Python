@@ -11,6 +11,10 @@ A repository that serves as my lab for exploring the Python language
 * [What's New in Python 3.6](https://docs.python.org/3.8/whatsnew/3.8.html)
 
 
+### Python Package Index 
+* https://pypi.org/
+
+
 
 ### Intel Python Distribution
 * https://software.intel.com/en-us/distribution-for-python

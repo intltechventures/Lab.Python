@@ -72,6 +72,16 @@ A repository that serves as my lab for exploring the Python language
 
 
 
+
+Useful Commands to Remember
+====
+
+
+### Update Pip
+* ```python -m pip install -U pip```
+
+
+
 ### Setting Up a Virtual Environment
 * ```$ mkdir Environments```
 * ```$ cd Environments```

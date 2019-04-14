@@ -23,3 +23,6 @@ REM TensorFlow 2.0 Alpha
 pip install tensorflow==2.0.0-alpha0
 
 
+REM https://pypi.org/project/jsonschema/
+pip install jsonschema
+

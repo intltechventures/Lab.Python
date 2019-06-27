@@ -32,8 +32,13 @@ REM
 REM Here's what's installed curently
 REM
 pip list
+REM
+REM Review current package versions
+REM
+ECHO Pausing to review current installed package versions
+ECHO
 pause
-
+cls
 
 REM
 REM General sytax for installing/Upgrading a library
@@ -52,6 +57,7 @@ REM allows to a Python program define, call, and implement custom and dispatch-b
 REM
 ECHO Install/Upgrade comtypes
 pause
+cls
 pip install --upgrade comtypes
 
 
@@ -60,6 +66,7 @@ REM for Text-to-Speech demos
 REM
 ECHO Install/Upgrade pyttsx3
 pause
+cls
 pip install --upgrade pyttsx3
 
 
@@ -68,6 +75,7 @@ REM numpy
 REM
 ECHO Install/Upgrade numpy
 pause
+cls
 pip install --upgrade numpy
 
 
@@ -77,6 +85,7 @@ REM TensorFlow 2.0 Alpha
 REM
 ECHO Install/Upgrade tensorflow 2.0.0-alpha0
 pause
+cls
 pip install --upgrade tensorflow==2.0.0-alpha0
 
 
@@ -86,6 +95,18 @@ REM
 REM https://pypi.org/project/jsonschema/
 REM
 ECHO Install/Upgrade jsonschema
+ECHO
 pause
+cls
 pip install --upgrade jsonschema
+
+
+REM
+REM Review package update results
+REM
+cls
+ECHO Review Package Update Results
+ECHO
+python -m pip install --upgrade pip
+
 

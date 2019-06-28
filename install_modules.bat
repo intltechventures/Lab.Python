@@ -114,7 +114,7 @@ REM Verify installed packages have compatible dependencies...
 cls
 pip check
 
-ECHO Pausing to review current installed package versions
+ECHO Pausing to review ```pip check``` results
 pause 
 
 

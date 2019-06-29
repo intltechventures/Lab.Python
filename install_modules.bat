@@ -1,5 +1,6 @@
 @ECHO OFF
 cls
+REM ************************************************************************************************************
 REM Prepared by:
 REM   Kelvin D. Meeks
 REM   kmeeks@intltechventures.com
@@ -9,7 +10,7 @@ REM
 REM References:
 REM   https://packaging.python.org/tutorials/installing-packages/#upgrading-packages
 REM     General sytax for installing/Upgrading a library
-REM      ```pip install --upgrade SomeProject```
+REM     	pip install --upgrade SomeProject
 REM
 REM
 REM This file:
@@ -18,7 +19,7 @@ REM
 REM 
 REM Description: 
 REM   A simple batch command file to autoamte the install process for library dependencies (in the Example programs) - or which are frequently/commonly/often used...
-
+REM ************************************************************************************************************
 
 
 REM ************************************************************************************************************
@@ -30,7 +31,7 @@ python -m pip install --upgrade pip
 
 
 REM ************************************************************************************************************
-REM Here's what's installed curently...
+REM Here's what's installed currently...
 REM
 pip list
 
@@ -77,11 +78,87 @@ pause
 REM ************************************************************************************************************
 REM Install/Upgrade Package:  numpy 
 REM
+REM References: 
+REM		http://www.numpy.org/
+REM
 
 cls
 ECHO Install/Upgrade numpy
 pip install --upgrade numpy
 pause
+
+
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package:  SciPy
+REM
+REM	References:
+REM 	https://www.scipy.org/scipylib/
+REM
+
+cls
+ECHO Install/Upgrade scipy
+pip install --upgrade scipy
+pause
+
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package:  Pandas
+REM
+REM	References:
+REM 	http://pandas.pydata.org/
+REM
+
+cls
+ECHO Install/Upgrade pandas
+pip install --upgrade pandas
+pause
+
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package:  matplotlib
+REM
+REM	References:
+REM 	https://matplotlib.org/
+REM
+
+cls
+ECHO Install/Upgrade matplotlib
+pip install --upgrade matplotlib
+pause
+
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package:  seaborn
+REM
+REM	References:
+REM 	https://seaborn.pydata.org/
+REM
+
+cls
+ECHO Install/Upgrade seaborn
+pip install --upgrade seaborn
+pause
+
+
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package:  SciKitLearn
+REM
+REM	References:
+REM 	https://scikit-learn.org/stable/
+REM
+
+cls
+ECHO Install/Upgrade scikit-learn
+pip install --upgrade scikit-learn
+pause
+
 
 
 

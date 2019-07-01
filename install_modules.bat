@@ -172,6 +172,22 @@ pip install --upgrade tensorflow==2.0.0-alpha0
 pause
 
 
+
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package: TensorFlow 2.0 Alpha
+REM
+REM	Reference:
+REM		https://github.com/microsoft/tensorwatch 
+REM 
+cls
+ECHO Install/Upgrade tensowwatch
+pip install --upgrade tensorwatch
+pause 
+
+
+
 REM ************************************************************************************************************
 REM Install/Upgrade Package: jsonschema
 REM

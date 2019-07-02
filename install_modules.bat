@@ -163,12 +163,16 @@ pause
 
 
 REM ************************************************************************************************************
-REM Install/Upgrade Package: TensorFlow 2.0 Alpha
+REM Install/Upgrade Package: TensorFlow 2.0.0-beta1
+REM
+REM References:
+REM   https://www.tensorflow.org/beta/
 REM
 
 cls
-ECHO Install/Upgrade tensorflow 2.0.0-alpha0
-pip install --upgrade tensorflow==2.0.0-alpha0
+ECHO Install/Upgrade tensorflow 2.0.0-beta1
+REM pip install --upgrade tensorflow==2.0.0-alpha0
+pip install --upgrade tensorflow==2.0.0-beta1
 pause
 
 

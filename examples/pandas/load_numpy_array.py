@@ -37,7 +37,7 @@ import pandas as pd
 
 #*****************************************************************************
 # Useful background reading/references on read_csv() processing...
-# NOTE: The test.csv file has UTF-8 encoded characters - which will result in an error when trying to print to_string() - if you don't specify an encoding of 'mbcs' on the read_csv()
+# NOTE: The test.csv file has some UTF-8 encoded entries with characters (e.g. `Dzień Dobry`) - which will result in an error when trying to print to_string() - if you don't specify an encoding of 'mbcs' on the read_csv()
 #
 # https://docs.python.org/3/library/codecs.html#standard-encodings
 # NOTE: mbcs: "Windows only: Encode operand according to the ANSI codepage (CP_ACP)"

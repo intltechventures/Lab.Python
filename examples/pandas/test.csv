@@ -1,15 +1,16 @@
-Hello, English
-Bonjour, French
-Hola, Spanish
-Guten Tag, German
-Konnichiwa, Japanese
-Ni Hao, Mandarin
-Marhaba, Arabic
-Namaste, Hindi
-Selamat Siang, Bahasa Indonesia
-Dzień Dobry, Polish
-Salut, Romanian
-Merhaba, Turkish
-Assalam u Alaikum, Urdu
-Privet, Russian
-Olá, Portugese
+Greeting, Language, Country, Conversion Rate
+Hello, English, USA, 1
+Bonjour, French, France, 1.12
+Hola, Spanish, Spain, 1.12
+Guten Tag, German, Germany, 1.12
+Konnichiwa, Japanese, Japan, 0.0093
+Ni Hao, Mandarin, China, 0.15
+Marhaba, Arabic, Saudi Arabia, 0.27
+Namaste, Hindi, India, 0.014
+Selamat Siang, Bahasa Indonesia, Indonesia, 0.000072
+Dzień Dobry, Polish, Poland, 0.26
+Salut, Romanian, Romania, 0.24 
+Merhaba, Turkish, Turkey, 0.18
+Assalam u Alaikum, Urdu, Pakistan, 0.0063
+Privet, Russian, Russia, 0.016
+Olá, Portugese, Portugal, 1.12

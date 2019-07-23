@@ -21,8 +21,14 @@
 #
 # test.csv
 # https://github.com/intltechventures/Lab.Python/blob/master/examples/pandas/test.csv
+# First row includes column headers
+# Columns:
+#    0 - Greeting
+#    1 - Language
+#    2 - Country
+#    3 - Currency Conversion Rate, as of 2019-07-22
 #
-# 
+#
 # International Technology Ventures, Inc.
 # https://www.intltechventures.com
 #
@@ -51,13 +57,14 @@ import pandas as pd
 #
 df = pd.read_csv('test.csv', encoding='mbcs')
 
-
 #*****************************************************************************
 # https://pandas.pydata.org/pandas-docs/stable/reference/arrays.html
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_numpy.html#pandas.DataFrame.to_numpy
 #
-df.iloc[:,1].to_numpy()
+print("\n\nBefore:\n", df.iloc[:,3])
+print("\n\n.to_numpy():\n", df.iloc[:,3].to_numpy())
+print("\n\nAfter:\n", df.iloc[:,3])
 
 
 #*****************************************************************************

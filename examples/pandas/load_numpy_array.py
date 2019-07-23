@@ -37,8 +37,15 @@
 #
 # Created: 2019-07-22
 #*****************************************************************************
-
+#
 import pandas as pd
+
+
+#*****************************************************************************
+# Program Start
+#
+print("\n\nProgram Start: load_numpy_array.py\n")
+
 
 
 #*****************************************************************************
@@ -63,16 +70,26 @@ df = pd.read_csv('test.csv', encoding='mbcs')
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_numpy.html#pandas.DataFrame.to_numpy
 #
 print("\n\nBefore:\n", df.iloc[:,3])
+
 print("\n\n.to_numpy():\n", df.iloc[:,3].to_numpy())
-print("\n\nAfter:\n", df.iloc[:,3])
+
+print("\n\ndf After:\n", df.iloc[:,3])
 
 
 #*****************************************************************************
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_json.html#pandas.DataFrame.to_json
 #
-print(df.to_json())
+print("\n\n.to_json():\n", df.to_json())
+
 
 #*****************************************************************************
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_string.html#pandas.DataFrame.to_string
 #
-print(df.to_string())
+print("\n\n.to_string():\n", df.to_string())
+
+
+#*****************************************************************************
+# Program End
+#
+print("\n\nProgram End: load_numpy_array.py\n")
+

@@ -65,16 +65,28 @@ print("\n\nProgram Start: load_numpy_array.py\n")
 #
 df = pd.read_csv('test.csv', encoding='mbcs')
 
+print("\n\ndf, 4th column, Before:\n", df.iloc[:,3])
+
+
 #*****************************************************************************
 # https://pandas.pydata.org/pandas-docs/stable/reference/arrays.html
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.iloc.html
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.to_numpy.html#pandas.DataFrame.to_numpy
 #
-print("\n\nBefore:\n", df.iloc[:,3])
 
+
+#****************************************************************************
+# Although you might consider using .values, note the v0.24.0 release notes comment:
+#   "We haven’t removed or deprecated Series.values or DataFrame.values, but we highly recommend and using .array or .to_numpy() instead."
+#   https://pandas-docs.github.io/pandas-docs-travis/whatsnew/v0.24.0.html#accessing-the-values-in-a-series-or-index
+#
 print("\n\n.to_numpy():\n", df.iloc[:,3].to_numpy())
 
-print("\n\ndf After:\n", df.iloc[:,3])
+
+# TO-DO: Some additional ideas to explore...
+#   https://stackoverflow.com/questions/17241004/how-do-i-convert-a-pandas-series-or-index-to-a-numpy-array/54324513#54324513
+
+
 
 
 #*****************************************************************************

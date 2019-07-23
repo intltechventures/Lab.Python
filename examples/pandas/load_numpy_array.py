@@ -80,13 +80,23 @@ print("\n\ndf, 4th column, Before:\n", df.iloc[:,3])
 #   "We haven’t removed or deprecated Series.values or DataFrame.values, but we highly recommend and using .array or .to_numpy() instead."
 #   https://pandas-docs.github.io/pandas-docs-travis/whatsnew/v0.24.0.html#accessing-the-values-in-a-series-or-index
 #
-print("\n\n.to_numpy():\n", df.iloc[:,3].to_numpy())
+print("\n\nUsing .to_numpy():\n", df.iloc[:,3].to_numpy())
+
+print("\n\nUsing .array:\n", df.iloc[:,3].array)
+
+
+print("\n\nUsing .values:\n", df.iloc[:,3].values)
 
 
 # TO-DO: Some additional ideas to explore...
 #   https://stackoverflow.com/questions/17241004/how-do-i-convert-a-pandas-series-or-index-to-a-numpy-array/54324513#54324513
+#   https://stackoverflow.com/questions/13187778/convert-pandas-dataframe-to-numpy-array
+#
 
 
+
+
+print("\n\ndf, 4th column, After:\n", df.iloc[:,3])
 
 
 #*****************************************************************************

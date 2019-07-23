@@ -57,11 +57,18 @@ print("\n\nProgram Start: load_numpy_array.py\n")
 # NOTE: mbcs: "Windows only: Encode operand according to the ANSI codepage (CP_ACP)"
 #
 # https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html#pandas.DataFrame
+#
+# https://www.datacamp.com/community/tutorials/python-numpy-tutorial
+# https://www.datacamp.com/community/tutorials/pandas-read-csv
+#
+# https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
+#
+# https://medium.com/@ericvanrees/pandas-series-objects-and-numpy-arrays-15dfe05919d7
+# 
 # https://jrogel.com/python-3-pandas-encoding-issues/
+# 
 # https://stackoverflow.com/questions/30462807/encoding-error-in-panda-read-csv
 # https://stackoverflow.com/questions/18171739/unicodedecodeerror-when-reading-csv-file-in-pandas-with-python
-# https://www.datacamp.com/community/tutorials/pandas-read-csv
-# https://www.shanelynn.ie/python-pandas-read_csv-load-data-from-csv-files/
 #
 df = pd.read_csv('test.csv', encoding='mbcs')
 

@@ -9,11 +9,6 @@
 # https://www.linkedin.com/feed/update/urn:li:activity:6559093931026509824?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6559093931026509824%2C6559100506214625280%29
 #
 #
-# Goals:
-# 1) Load a CSV file into a Pandas dataframe, and load the second column as a NumPy array
-# 2) Dump the contents of the dataframe as JSON
-# 3) Dump the contents of the dataframe as a string (i.e. in a console-friendly tabular output)
-# 
 # Source Code:
 #
 # On Github
@@ -22,11 +17,17 @@
 # test.csv
 # https://github.com/intltechventures/Lab.Python/blob/master/examples/pandas/test.csv
 # First row includes column headers
-# Columns:
+# Columns (numbered based on Python indexing):
 #    0 - Greeting
 #    1 - Language
 #    2 - Country
 #    3 - Currency Conversion Rate, as of 2019-07-22
+#
+# Goals:
+# 1) Load a CSV file into a Pandas dataframe, and experiment with methods to transform the fourth column (Currency Conversion Rate) to a NumPy array
+# 2) Experiment with loading UTF-8 encoded mixed character set data, and...
+# 3) Dump the contents of the dataframe as JSON
+# 4) Dump the contents of the dataframe as a string (i.e. in a console-friendly tabular output)
 #
 #
 # International Technology Ventures, Inc.

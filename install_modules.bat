@@ -33,11 +33,11 @@ python -m pip install --upgrade pip
 REM ************************************************************************************************************
 REM Here's what's installed currently...
 REM
-pip list
+pip3 list
 
 REM Verify installed packages have compatible dependencies...
 REM
-pip check
+pip3 check
 
 ECHO Pausing to review current installed package versions & pip check results
 pause
@@ -57,7 +57,7 @@ REM   Works on Windows, 64-bit Windows, and Windows CE.
 
 cls
 ECHO Install/Upgrade comtypes
-pip install --upgrade comtypes
+pip3 install --upgrade comtypes
 pause
 
 
@@ -70,7 +70,7 @@ REM   Text-to-Speech demos
 
 cls
 ECHO Install/Upgrade pyttsx3
-pip install --upgrade pyttsx3
+pip3 install --upgrade pyttsx3
 pause
 
 
@@ -84,7 +84,7 @@ REM
 
 cls
 ECHO Install/Upgrade numpy
-pip install --upgrade numpy
+pip3 install --upgrade numpy
 pause
 
 
@@ -99,7 +99,7 @@ REM
 
 cls
 ECHO Install/Upgrade scipy
-pip install --upgrade scipy
+pip3 install --upgrade scipy
 pause
 
 
@@ -113,9 +113,28 @@ REM
 
 cls
 ECHO Install/Upgrade pandas
-pip install --upgrade pandas
+pip3 install --upgrade pandas
 pause
 
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package: torch
+REM
+REM References:
+REM   https://pytorch.org/
+REM   https://pytorch.org/docs/stable/index.html
+REM
+REM   See this:
+REM   https://pytorch.org/get-started/locally/
+REM     pip3 install https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+REM
+:: pip install --upgrade tortch
+ECHO Install/Upgrade https://download.pytorth.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+pip3 install --upgrade https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+
+ECHO Install/Upgrade torchvision
+pip3 install --upgrade pip3 install torchvision
 
 
 REM ************************************************************************************************************
@@ -127,7 +146,7 @@ REM
 
 cls
 ECHO Install/Upgrade matplotlib
-pip install --upgrade matplotlib
+pip3 install --upgrade matplotlib
 pause
 
 
@@ -141,7 +160,7 @@ REM
 
 cls
 ECHO Install/Upgrade seaborn
-pip install --upgrade seaborn
+pip3 install --upgrade seaborn
 pause
 
 
@@ -156,7 +175,7 @@ REM
 
 cls
 ECHO Install/Upgrade scikit-learn
-pip install --upgrade scikit-learn
+pip3 install --upgrade scikit-learn
 pause
 
 
@@ -172,7 +191,7 @@ REM
 cls
 ECHO Install/Upgrade tensorflow 2.0.0-beta1
 REM pip install --upgrade tensorflow==2.0.0-alpha0
-pip install --upgrade tensorflow==2.0.0-beta1
+pip3 install --upgrade tensorflow==2.0.0-beta1
 pause
 
 
@@ -187,7 +206,7 @@ REM		https://github.com/microsoft/tensorwatch
 REM 
 cls
 ECHO Install/Upgrade tensowwatch
-pip install --upgrade tensorwatch
+pip3 install --upgrade tensorwatch
 pause 
 
 
@@ -200,7 +219,7 @@ REM   https://pypi.org/project/jsonschema/
 
 cls
 ECHO Install/Upgrade jsonschema
-pip install --upgrade jsonschema
+pip3 install --upgrade jsonschema
 pause
 
 
@@ -209,7 +228,7 @@ REM ****************************************************************************
 REM Verify installed packages have compatible dependencies...
 
 cls
-pip check
+pip3 check
 
 ECHO Pausing to review ```pip check``` results
 pause 
@@ -221,6 +240,6 @@ REM Review package update results
 
 cls
 ECHO Review Package Update Results
-pip list
+pip3 list
 
 

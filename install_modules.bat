@@ -121,21 +121,29 @@ pause
 REM ************************************************************************************************************
 REM Install/Upgrade Package: torch
 REM
+REM
 REM References:
 REM   https://pytorch.org/
 REM   https://pytorch.org/docs/stable/index.html
 REM
 REM   See this:
-REM   https://pytorch.org/get-started/locally/
-REM     pip3 install https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+REM   	https://pytorch.org/get-started/locally/
 REM
-:: pip install --upgrade tortch
-ECHO Install/Upgrade https://download.pytorth.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
-pip3 install --upgrade https://download.pytorch.org/whl/cpu/torch-1.0.1-cp37-cp37m-win_amd64.whl
+cls
+ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
+pause
+REM   pip install --upgrade torch
+REM cls
+REM ECHO Install/Upgrade torch
+REM pip3 install --upgrade torch==1.3.1+cpu torchvision==0.4.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
+REM pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cu101/torch_nightly.html
+REM pause
 
+
+cls
 ECHO Install/Upgrade torchvision
 pip3 install --upgrade pip3 install torchvision
-
+pause
 
 REM ************************************************************************************************************
 REM Install/Upgrade Package:  matplotlib
@@ -182,28 +190,41 @@ pause
 
 
 REM ************************************************************************************************************
-REM Install/Upgrade Package: TensorFlow 2.0.0-beta1
+REM Install/Upgrade Package: TensorFlow
 REM
 REM References:
-REM   https://www.tensorflow.org/beta/
+REM   https://www.tensorflow.org/install/pip
+REM
+cls
+ECHO Install/Upgrade tensorflow
+REM pip install --upgrade tensorflow
+pip3 install --upgrade tensorflow
+pause
+
+
+
+REM ************************************************************************************************************
+REM
+REM References:
+REM   https://github.com/google/tf-quant-finance
+REM   https://www.openquants.com/
 REM
 
 cls
-ECHO Install/Upgrade tensorflow 2.0.0-beta1
-REM pip install --upgrade tensorflow==2.0.0-alpha0
-pip3 install --upgrade tensorflow==2.0.0-beta1
+ECHO install/upgrade tf-quant-finance
+pip3 install --upgrade tf-quant-finance
 pause
 
 
 
 
-
 REM ************************************************************************************************************
-REM Install/Upgrade Package: TensorFlow 2.0 Alpha
+REM Install/Upgrade Package: TensorFlow 
 REM
 REM	Reference:
 REM		https://github.com/microsoft/tensorwatch 
 REM 
+
 cls
 ECHO Install/Upgrade tensowwatch
 pip3 install --upgrade tensorwatch

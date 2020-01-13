@@ -45,6 +45,17 @@ pause
 
 
 REM ************************************************************************************************************
+REM https://pypi.org/project/filehash/
+REM https://intltechventures.blogspot.com/2020/01/2020-01-12-sunday-easy-sha512-hashing.html
+REM REM
+ECHO Install/Upgrade  filehash
+cls
+pip install --upgrade filehash
+pause 
+
+
+
+REM ************************************************************************************************************
 REM Instal/Upgrade Package: comtypes
 REM
 REM NOTE:
@@ -130,19 +141,18 @@ REM   See this:
 REM   	https://pytorch.org/get-started/locally/
 REM
 cls
+ECHO Install/Upgrade torch
 ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
-pause
-REM   pip install --upgrade torch
-REM cls
-REM ECHO Install/Upgrade torch
+REM pip install --upgrade torch
 REM pip3 install --upgrade torch==1.3.1+cpu torchvision==0.4.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
 REM pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cu101/torch_nightly.html
-REM pause
+pause
 
 
 cls
 ECHO Install/Upgrade torchvision
-pip3 install --upgrade pip3 install torchvision
+ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
+REM pip3 install --upgrade pip3 install torchvision
 pause
 
 REM ************************************************************************************************************
@@ -197,8 +207,9 @@ REM   https://www.tensorflow.org/install/pip
 REM
 cls
 ECHO Install/Upgrade tensorflow
+ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
 REM pip install --upgrade tensorflow
-pip3 install --upgrade tensorflow
+REM pip3 install --upgrade tensorflow==2.0.0
 pause
 
 
@@ -227,7 +238,8 @@ REM
 
 cls
 ECHO Install/Upgrade tensowwatch
-pip3 install --upgrade tensorwatch
+ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
+REM pip3 install --upgrade tensorwatch
 pause 
 
 

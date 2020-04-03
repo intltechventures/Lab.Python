@@ -148,30 +148,23 @@ pause
 
 
 REM ************************************************************************************************************
-REM Install/Upgrade Package: torch
+REM Install/Upgrade Package: torch and torchvision
 REM
 REM
 REM References:
 REM   https://pytorch.org/
+REM   https://github.com/pytorch/pytorch
 REM   https://pytorch.org/docs/stable/index.html
 REM
 REM   See this:
 REM   	https://pytorch.org/get-started/locally/
-REM
+REM		pip install torch===1.4.0 torchvision===0.5.0 -f https://download.pytorch.org/whl/torch_stable.html
+REM	
 cls
-ECHO Install/Upgrade torch
-ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
-REM pip install --upgrade torch
-REM pip3 install --upgrade torch==1.3.1+cpu torchvision==0.4.2+cpu -f https://download.pytorch.org/whl/torch_stable.html
-REM pip install --pre torch torchvision -f https://download.pytorch.org/whl/nightly/cu101/torch_nightly.html
+ECHO Install torch, torchvision (NOT set for automatic upgrade)
+pip3 install torch===1.4.0 torchvision===0.5.0 -f https://download.pytorch.org/whl/torch_stable.html
 pause
 
-
-cls
-ECHO Install/Upgrade torchvision
-ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
-REM pip3 install --upgrade pip3 install torchvision
-pause
 
 REM ************************************************************************************************************
 REM Install/Upgrade Package:  matplotlib
@@ -221,13 +214,35 @@ REM ****************************************************************************
 REM Install/Upgrade Package: TensorFlow
 REM
 REM References:
+REM	  https://www.tensorflow.org/
 REM   https://www.tensorflow.org/install/pip
+REM	  https://www.tensorflow.org/install
 REM
+REM	  https://github.com/tensorflow/
+REM 
 cls
 ECHO Install/Upgrade tensorflow
-ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
-REM pip install --upgrade tensorflow
-REM pip3 install --upgrade tensorflow==2.0.0
+REM pip3 install --upgrade tensorflow
+pip3 install --upgrade tf-nightly
+pause
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package: TensorFlow
+REM
+REM References:
+REM	  https://www.tensorflow.org/
+REM   https://www.tensorflow.org/install/pip
+REM	  https://www.tensorflow.org/install
+REM
+REM   https://www.tensorflow.org/install/gpu
+REM
+REM	  https://github.com/tensorflow/
+REM 
+cls
+ECHO Install/Upgrade tensorflow
+pip3 install --upgrade tensorflow
+REM pip3 install --upgrade tf-nightly
 pause
 
 
@@ -255,8 +270,8 @@ REM		https://github.com/microsoft/tensorwatch
 REM 
 
 cls
-ECHO Install/Upgrade tensowwatch
-ECHO 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
+ECHO SKIPPING - Install/Upgrade tensowwatch
+ECHO SKIPPING - 2019-12-22 - I've run into some issue getting torch to install - will have to come back and research this
 REM pip3 install --upgrade tensorwatch
 pause 
 

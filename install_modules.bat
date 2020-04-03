@@ -100,6 +100,24 @@ pause
 
 
 
+REM ************************************************************************************************************
+REM Install/Upgrade Package: numba
+REM
+REM References:
+REM   http://numba.pydata.org/
+REM   "Numba is an open source JIT compiler that translates a subset of Python and NumPy code into fast machine code"
+REM
+REM   https://gitlab.com/brohrer/e2eml-course-321/-/blob/master/conv_benchmark.py
+REM   "Numba acceleration cuts computation time down by a factor of 30"
+REM
+
+cls
+ECHO Install/Upgrade numba
+pip3 install --upgrade numba
+pause
+
+
+
 
 REM ************************************************************************************************************
 REM Install/Upgrade Package:  SciPy

@@ -221,29 +221,11 @@ REM
 REM	  https://github.com/tensorflow/
 REM 
 cls
-ECHO Install/Upgrade tensorflow
-REM pip3 install --upgrade tensorflow
+ECHO Install/Upgrade tensorflow nigthly 
+REM pip3 install --upgrade tensorflow                 -- this reports permission error...
 pip3 install --upgrade tf-nightly
 pause
 
-
-REM ************************************************************************************************************
-REM Install/Upgrade Package: TensorFlow
-REM
-REM References:
-REM	  https://www.tensorflow.org/
-REM   https://www.tensorflow.org/install/pip
-REM	  https://www.tensorflow.org/install
-REM
-REM   https://www.tensorflow.org/install/gpu
-REM
-REM	  https://github.com/tensorflow/
-REM 
-cls
-ECHO Install/Upgrade tensorflow
-pip3 install --upgrade tensorflow
-REM pip3 install --upgrade tf-nightly
-pause
 
 
 

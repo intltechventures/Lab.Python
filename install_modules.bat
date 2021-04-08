@@ -50,7 +50,7 @@ REM https://intltechventures.blogspot.com/2020/01/2020-01-12-sunday-easy-sha512-
 REM REM
 ECHO Install/Upgrade  filehash
 cls
-pip install --upgrade filehash
+pip3 install --upgrade filehash
 pause 
 
 
@@ -143,6 +143,18 @@ REM
 cls
 ECHO Install/Upgrade pandas
 pip3 install --upgrade pandas
+pause
+
+
+
+REM ************************************************************************************************************
+REM Install/Upgrade Package:  Pandas
+REM
+REM	References:
+REM
+cls
+ECHO install jupyterlab=3
+pip3 install jupyterlab==3
 pause
 
 

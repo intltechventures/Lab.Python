@@ -43,11 +43,20 @@ ECHO Pausing to review current installed package versions & pip check results
 pause
 
 
+REM ************************************************************************************************************
+REM 
+REM graphviz
+REM
+ECHO Install/Upgrade graphviz
+cls
+pip3 install --upgrade graphviz
+pause 
+
 
 REM ************************************************************************************************************
 REM https://pypi.org/project/filehash/
 REM https://intltechventures.blogspot.com/2020/01/2020-01-12-sunday-easy-sha512-hashing.html
-REM REM
+REM 
 ECHO Install/Upgrade  filehash
 cls
 pip3 install --upgrade filehash

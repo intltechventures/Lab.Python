@@ -12,6 +12,12 @@
 - https://docs.python.org/3.12/library/
 
 
+## github awesome python repositories
+
+- https://github.com/vinta/awesome-python
+
+
+
 ## Computer Science Background Reading
 
 - https://www.khanacademy.org/computing/computer-science
@@ -48,6 +54,11 @@
 
 - [Python for Everybody - Interactive](https://runestone.academy/ns/books/published/py4e-int/index.html?mode=browsing)
 
+- [The Python Handbook – Learn Python for Beginners](https://www.freecodecamp.org/news/the-python-handbook/) 
+
+- https://github.com/junnplus/awesome-python-books
+
+
 
 ### Suggested Python Books on Amazon
 
@@ -81,14 +92,32 @@
 - Khan Academy - Python (24 videos)
   + https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs
 
-
 - freeCodeCamp.org YouTube Channel
+  + [Python for Beginners - Python Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnqBxcdjVGgT3uVR10bzTEB) (12 videos)
   + [Learn Python - Full Course for Beginners, by Mike Dane, Giraffe Academy (04:26:51)](https://www.youtube.com/watch?v=rfscVS0vtbw)
     * [Broken out, by topic](https://www.youtube.com/watch?v=sfhhk8m4mcQ&list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
 
 - V. Anton Spraul
-  + [(Think Like a Programmer: Introduction](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0)
-    * https://www.mikedane.com/programming-languages/python/
+  + [Think Like a Programmer: Introduction](https://www.youtube.com/watch?v=YgzpqlF54lo&list=PLKQ5LYb497AZIZe9dBWy8GwLluVaMQVj0) (22 videos)
+
+- Giraffe Academy 
+  + https://www.giraffeacademy.com/programming-languages/python/
+
+- Harvard CS50: Introduction to Programming with Python (11 lectures, ~24 hours)
+  + https://cs50.harvard.edu/python/2022/
+  + https://www.youtube.com/watch?v=8mAITcNt710&t=0s
+    * (00:00:00) Lecture 0 - Scratch
+    * (01:45:08) Lecture 1 - C
+    * (04:13:23) Lecture 2 - Arrays
+    * (06:20:43) Lecture 3 - Algorithms
+    * (08:37:55) Lecture 4 - Memory
+    * (11:03:17) Lecture 5 - Data Structures
+    * (13:15:36) Lecture 6 - Python
+    * (15:39:25) Lecture 7 - SQL
+    * (18:00:55) Lecture 8 - HTML, CSS, JavaScript
+    * (20:23:38) Lecture 9 - Flask
+    * (22:39:01) Lecture 10 - Emoji
+    * (24:02:50) Cybersecurity  
 
 - YouTube, search term: "beginning python"
   + https://www.youtube.com/results?search_query=beginning+python
@@ -148,7 +177,7 @@
   - https://courses.cs.washington.edu/courses/cse160/18sp/computing/
 
   
-## Python Programming Problems
+## Python Programming Problem Ideas/Resources
 
 - https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions
 
@@ -157,6 +186,28 @@
 - https://github.com/karan/Projects
 
 - http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+
+- https://github.com/gamontal/awesome-katas
+
+- https://github.com/laibanasir/python-assignments
+
+- https://github.com/zhiwehu/Python-programming-exercises/
+
+- https://github.com/ndleah/python-mini-project
+
+- https://github.com/ProgrammingHero1/100-plus-python-coding-problems-with-solutions
+
+- Google's Summer of Code:
+  + https://summerofcode.withgoogle.com/
+    * https://summerofcode.withgoogle.com/archive
+
+  + 2022
+    * https://summerofcode.withgoogle.com/programs/2022/organizations/python-software-foundation
+
+  + 2023
+    * https://summerofcode.withgoogle.com/programs/2023/projects
+    * https://python-gsoc.org/ideas.html
+
 
 
 

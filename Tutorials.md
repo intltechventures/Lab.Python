@@ -103,21 +103,6 @@
 - Giraffe Academy 
   + https://www.giraffeacademy.com/programming-languages/python/
 
-- Harvard CS50: Introduction to Programming with Python (11 lectures, ~24 hours)
-  + https://cs50.harvard.edu/python/2022/
-  + https://www.youtube.com/watch?v=8mAITcNt710&t=0s
-    * (00:00:00) Lecture 0 - Scratch
-    * (01:45:08) Lecture 1 - C
-    * (04:13:23) Lecture 2 - Arrays
-    * (06:20:43) Lecture 3 - Algorithms
-    * (08:37:55) Lecture 4 - Memory
-    * (11:03:17) Lecture 5 - Data Structures
-    * (13:15:36) Lecture 6 - Python
-    * (15:39:25) Lecture 7 - SQL
-    * (18:00:55) Lecture 8 - HTML, CSS, JavaScript
-    * (20:23:38) Lecture 9 - Flask
-    * (22:39:01) Lecture 10 - Emoji
-    * (24:02:50) Cybersecurity  
 
 - YouTube, search term: "beginning python"
   + https://www.youtube.com/results?search_query=beginning+python
@@ -175,6 +160,22 @@
   - https://courses.cs.washington.edu/courses/cse160/18sp/computing/style_guide.html
   - https://courses.cs.washington.edu/courses/cse160/18sp/computing/csv-parsing.html
   - https://courses.cs.washington.edu/courses/cse160/18sp/computing/
+
+- Harvard CS50: Introduction to Programming with Python (11 lectures, ~24 hours)
+  + https://cs50.harvard.edu/python/2022/
+  + https://www.youtube.com/watch?v=8mAITcNt710&t=0s
+    * (00:00:00) Lecture 0 - Scratch
+    * (01:45:08) Lecture 1 - C
+    * (04:13:23) Lecture 2 - Arrays
+    * (06:20:43) Lecture 3 - Algorithms
+    * (08:37:55) Lecture 4 - Memory
+    * (11:03:17) Lecture 5 - Data Structures
+    * (13:15:36) Lecture 6 - Python
+    * (15:39:25) Lecture 7 - SQL
+    * (18:00:55) Lecture 8 - HTML, CSS, JavaScript
+    * (20:23:38) Lecture 9 - Flask
+    * (22:39:01) Lecture 10 - Emoji
+    * (24:02:50) Cybersecurity  
 
   
 ## Python Programming Problem Ideas/Resources

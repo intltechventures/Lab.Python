@@ -103,14 +103,19 @@
   + https://us.pycon.org/2018/schedule/tutorials/
 
 - 2019
+  + https://us.pycon.org/2019/schedule/tutorials/
 
 - 2020 
+  + https://us.pycon.org/2020/schedule/tutorials/
 
 - 2021
+  + https://us.pycon.org/2021/schedule/tutorials/
 
 - 2022
+  + https://us.pycon.org/2022/schedule/tutorials/
 
 - 2023 
+  + https://us.pycon.org/2023/schedule/tutorials/
 
 
 

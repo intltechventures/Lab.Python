@@ -6,13 +6,17 @@ A repository that serves as my lab for exploring the Python language
 
 - https://www.python.org/
 
+- [Python 3.x Documentation](https://docs.python.org/3/)
+
+- https://docs.python.org/3.12/index.html
+
 - https://docs.python.org/3.12/tutorial/
+
+- https://docs.python.org/3.12/reference/index.html
 
 - https://docs.python.org/3.12/library/
 
-- [Python 3.x Documentation](https://docs.python.org/3/)
-
-- [What's New in Python 3.12](https://docs.python.org/3.8/whatsnew/3.12.html)
+- [What's New in Python 3.12](https://docs.python.org/3.12/whatsnew/3.12.html)
 
 
 ## Python Package Index 

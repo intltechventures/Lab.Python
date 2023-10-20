@@ -1,8 +1,13 @@
 
 # Python Tutorial Resources
 
+## Computer Science Background Reading
 
-## Coursera
+- https://www.khanacademy.org/computing/computer-science
+
+## Online Courses: 
+
+### Coursera
 - [Fundamentals of Computing Specialization](https://www.coursera.org/specializations/computer-fundamentals)
   + An Introduction to Interactive Programming in Python (Part 1)
   + An Introduction to Interactive Programming in Python (Part 2)
@@ -15,13 +20,16 @@
 - [Learn Data Science Fundamentals](https://www.coursera.org/specializations/data-analysis)
 
 
-## Udemy
+### Udemy
 - [Introduction To Python Programmin](https://www.udemy.com/pythonforbeginnersintro/)
 
 - [Introduction to Computer Science](https://www.udemy.com/introduction-to-computer-science/)
 
 
-## Suggested Free Online Books
+
+## Suggested Reading
+
+### Suggested Free Online Books
 - [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html?mode=browsing)
 
 - [Foundations of Python Programming: Functions First](https://runestone.academy/ns/books/published/foppff/frontmatter-1.html?mode=browsing)
@@ -29,7 +37,7 @@
 - [Python for Everybody - Interactive](https://runestone.academy/ns/books/published/py4e-int/index.html?mode=browsing)
 
 
-## Suggested Books on Amazon
+### Suggested Books on Amazon
 
 - [Think Python: How to Think Like a Computer Scientist, 2nd Edition, by Allen B. Downey](https://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 
@@ -68,20 +76,37 @@
 
 ## Misc. Tutorials
 - http://www.tutorialspoint.com/python/index.htm
+
 - https://pythonprogramming.net/
+
 - https://www.python-course.eu/python3_course.php
+
 - https://the-hitchhikers-guide-to-packaging.readthedocs.org/en/latest/
+
 - http://docs.python-guide.org/en/latest/
+
 - http://python-notes.curiousefficiency.org/en/latest/python_concepts/import_traps.html
+
 - [Python for Signal Processing](http://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing/tree/master/)
 
 
 
 ## Python Conference Presentations
-- 2018
-  + https://us.pycon.org/2018/schedule/tutorials/
 - 2017
   + https://us.pycon.org/2017/schedule/tutorials/
+
+- 2018
+  + https://us.pycon.org/2018/schedule/tutorials/
+
+- 2019
+
+- 2020 
+
+- 2021
+
+- 2022
+
+- 2023 
 
 
 

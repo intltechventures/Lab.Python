@@ -62,7 +62,11 @@
 
 
 ## Video
--* freeCodeCamp.org YouTube Channel
+- Khan Academy - Python (24 videos)
+  + https://www.youtube.com/playlist?list=PLJR1V_NHIKrCkswPMULzQFHpYa57ZFGbs
+
+
+- freeCodeCamp.org YouTube Channel
   + [Learn Python - Full Course for Beginners, by Mike Dane, Giraffe Academy (04:26:51)](https://www.youtube.com/watch?v=rfscVS0vtbw)
     * [Broken out, by topic](https://www.youtube.com/watch?v=sfhhk8m4mcQ&list=PLLAZ4kZ9dFpMMs5lskzBApYXn0bl7emsW)
 

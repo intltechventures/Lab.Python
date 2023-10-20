@@ -1,9 +1,21 @@
 
 # Python Tutorial Resources
 
+## Python Language References 
+
+- https://docs.python.org/3/
+
+- https://docs.python.org/3.12/index.html
+
+- https://docs.python.org/3.12/reference/
+
+- https://docs.python.org/3.12/library/
+
+
 ## Computer Science Background Reading
 
 - https://www.khanacademy.org/computing/computer-science
+
 
 ## Online Courses: 
 
@@ -37,7 +49,7 @@
 - [Python for Everybody - Interactive](https://runestone.academy/ns/books/published/py4e-int/index.html?mode=browsing)
 
 
-### Suggested Books on Amazon
+### Suggested Python Books on Amazon
 
 - [Think Python: How to Think Like a Computer Scientist, 2nd Edition, by Allen B. Downey](https://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362)
 
@@ -78,7 +90,11 @@
   + https://www.youtube.com/results?search_query=beginning+python
 
 
+
 ## Misc. Tutorials
+
+- https://docs.python.org/3.12/tutorial/
+
 - http://www.tutorialspoint.com/python/index.htm
 
 - https://pythonprogramming.net/
@@ -129,6 +145,7 @@
 
   
 ## Python Programming Problems
+
 - https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions
 
 - http://www.practicepython.org/
@@ -136,4 +153,6 @@
 - https://github.com/karan/Projects
 
 - http://www.ic.unicamp.br/~meidanis/courses/mc336/2006s2/funcional/L-99_Ninety-Nine_Lisp_Problems.html
+
+
 

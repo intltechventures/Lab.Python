@@ -111,7 +111,8 @@ A repository that serves as my lab for exploring the Python language
 
 
 ## Interesting Python Related Blogs
-- http://blog.amir.rachum.com/
+
+- https://amir.rachum.com/
 
 
 

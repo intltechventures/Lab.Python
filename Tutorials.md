@@ -177,7 +177,12 @@
     * (22:39:01) Lecture 10 - Emoji
     * (24:02:50) Cybersecurity  
 
-  
+
+- Castle (ComputAtional STochastic optimization and LEarning) Labs, Princeton Univerrsity 
+  + Courses in reinforcement learning and sequential decision problems
+    * https://castle.princeton.edu/rlsocourses/
+
+
 ## Python Programming Problem Ideas/Resources
 
 - https://wiki.python.org/moin/ProblemSets/99%20Prolog%20Problems%20Solutions

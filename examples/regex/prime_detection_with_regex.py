@@ -1,3 +1,4 @@
+# https://www.linkedin.com/posts/billatnapier_1-detects-a-prime-number-activity-7309127582627606528-FIp6
 # https://medium.com/asecuritysite-when-bob-met-alice/1-detects-a-prime-number-468232da1879
 # https://asecuritysite.com/primes/regprime
 

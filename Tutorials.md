@@ -5,11 +5,13 @@
 
 - https://docs.python.org/3/
 
-- https://docs.python.org/3.12/index.html
+- https://docs.python.org/3.13/index.html
 
-- https://docs.python.org/3.12/reference/
+- https://docs.python.org/3.13/reference/
 
-- https://docs.python.org/3.12/library/
+- https://docs.python.org/3.13/library/
+
+
 
 
 ## github awesome python repositories
@@ -47,7 +49,11 @@
 
 ## Suggested Reading
 
+- https://wiki.python.org/moin/BeginnersGuide
+
+
 ### Suggested Free Online Books
+
 - [How to Think Like a Computer Scientist: Interactive Edition](https://runestone.academy/ns/books/published/thinkcspy/index.html?mode=browsing)
 
 - [Foundations of Python Programming: Functions First](https://runestone.academy/ns/books/published/foppff/frontmatter-1.html?mode=browsing)
@@ -62,17 +68,15 @@
 
 ### Suggested Python Books on Amazon
 
+- [Programming Python: Powerful Object-Oriented Programming, Sixth Edition, by Mark Lutz](https://www.amazon.com/Learning-Python-Powerful-Object-Oriented-Programming/dp/1098171306/) (2025) 
+  + https://learning-python.com/
+
+
 - [Think Python: How to Think Like a Computer Scientist, 2nd Edition, by Allen B. Downey](https://www.amazon.com/Think-Python-Like-Computer-Scientist/dp/1491939362) (2016)
 
 - [Introducing Python: Modern Computing in Simple Packages, 2nd Edition, by Bill Lubanovic](https://www.amazon.com/Introducing-Python-Modern-Computing-Packages-dp-1492051365/dp/1492051365/) (2019)
 
-- [Head First Python: A Brain-Friendly Guide, 2nd Edition, by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide-dp-1492051292/dp/1492051292/) (2023) 
-
-- [Learning Python, 5th Edition, by Mark Lutz](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/) (2013)
-  + A very good book, great breadth and depth
-
-- [Programming Python: Powerful Object-Oriented Programming Fourth Edition, by Mark Lutz](https://www.amazon.com/Programming-Python-Powerful-Object-Oriented/dp/0596158106/) (2011) 
-  + An older book, but still a solid foundational book
+- [Head First Python: A Brain-Friendly Guide, 2nd Edition, by Paul Barry](https://www.amazon.com/Head-First-Python-Brain-Friendly-Guide-dp-1492051292/dp/1492051292/) (2023)
 
 - [Fluent Python: Clear, Concise, and Effective Programming 1st Edition, by Luciano Ramalho](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-dp-1492056359/dp/1492056359/) (2022)
 
@@ -112,6 +116,8 @@
 ## Misc. Tutorials
 
 - https://docs.python.org/3.12/tutorial/
+
+- https://github.com/intltechventures/Lab.Python/blob/master/Tutorials.md
 
 - http://www.tutorialspoint.com/python/index.htm
 

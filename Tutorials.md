@@ -115,7 +115,7 @@
 
 ## Misc. Tutorials
 
-- https://docs.python.org/3.12/tutorial/
+- https://docs.python.org/3.13/tutorial/
 
 - https://github.com/intltechventures/Lab.Python/blob/master/Tutorials.md
 

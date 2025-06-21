@@ -6,17 +6,20 @@ A repository that serves as my lab for exploring the Python language
 
 - https://www.python.org/
 
+- Python Enhancement Proposals (PEPs)
+  + https://peps.python.org/pep-0000/
+
+
 - [Python 3.x Documentation](https://docs.python.org/3/)
 
-- https://docs.python.org/3.12/index.html
 
-- https://docs.python.org/3.12/tutorial/
+- https://docs.python.org/3.13/index.html
+- https://docs.python.org/3.13/tutorial/
+- https://docs.python.org/3.13/reference/index.html
+- https://docs.python.org/3.13/library/
 
-- https://docs.python.org/3.12/reference/index.html
+- [What's New in Python 3.13](https://docs.python.org/3.13/whatsnew/3.13.html)
 
-- https://docs.python.org/3.12/library/
-
-- [What's New in Python 3.12](https://docs.python.org/3.12/whatsnew/3.12.html)
 
 
 ## Python Package Index 

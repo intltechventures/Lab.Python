@@ -50,12 +50,32 @@ REM uv
 REM
 REM https://pypi.org/project/uv/ 
 REM https://github.com/astral-sh/uv
+REM https://docs.astral.sh/uv/
 REM
 REM An extremely fast Python package and project manager, written in Rust.
 REM
 cls
 pip3 install --upgrade uv
 pause 
+
+
+
+
+
+REM ************************************************************************************************************
+REM 
+REM ruff
+REM
+REM https://pypi.org/project/ruff/
+REM https://github.com/astral-sh/ruff
+REM https://docs.astral.sh/ruff/
+REM
+REM An extremely fast Python linter and code formatter, written in Rust.
+REM
+cls
+uv tool install ruff
+pause
+
 
 
 

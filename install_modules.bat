@@ -26,7 +26,7 @@ REM ****************************************************************************
 REM Update pip
 REM
 ECHO Checking pip for updates
-python -m pip install --upgrade pip
+python.exe -m pip install --upgrade pip
 
 
 
@@ -41,6 +41,23 @@ pip3 check
 
 ECHO Pausing to review current installed package versions & pip check results
 pause
+
+
+
+REM ************************************************************************************************************
+REM
+REM uv 
+REM
+REM https://pypi.org/project/uv/ 
+REM https://github.com/astral-sh/uv
+REM
+REM An extremely fast Python package and project manager, written in Rust.
+REM
+cls
+pip3 install --upgrade uv
+pause 
+
+
 
 
 REM ************************************************************************************************************
